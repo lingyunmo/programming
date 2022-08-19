@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ParalellStreamDemo",
+            "request": "launch",
+            "mainClass": "ParalellStreamDemo",
+            "projectName": "testarray_9f4c3b2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Helloworld",
+            "request": "launch",
+            "mainClass": "Helloworld",
+            "projectName": "testarray_9f4c3b2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestThread",
+            "request": "launch",
+            "mainClass": "TestThread",
+            "projectName": "testarray_9f4c3b2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExcepTest",
+            "request": "launch",
+            "mainClass": "ExcepTest",
+            "projectName": "testarray_9f4c3b2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestSuperSubClass",
+            "request": "launch",
+            "mainClass": "TestSuperSubClass",
+            "projectName": "testarray_9f4c3b2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch DogName",
+            "request": "launch",
+            "mainClass": "DogName",
+            "projectName": "testarray_9f4c3b2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyDog",
+            "request": "launch",
+            "mainClass": "MyDog",
+            "projectName": "testarray_9f4c3b2a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dog",
+            "request": "launch",
+            "mainClass": "Dog",
+            "projectName": "testarray_9f4c3b2a"
+        },
+        {
+            "type": "java",
             "name": "Launch TestArray",
             "request": "launch",
             "mainClass": "TestArray",

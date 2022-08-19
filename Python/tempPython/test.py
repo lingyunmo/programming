@@ -1,11 +1,12 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
-
-for letter in 'Python':  # 第一个实例
-    print("当前字母: %s" % letter)
-
-fruits = ['banana', 'apple', 'mango']
-for fruit in fruits:  # 第二个实例
-    print('当前水果: %s' % fruit)
-
-print("Good bye!")
+m, n = int(input()), int(input())
+l, r = 0, 1
+while r**m <= n:
+    l = r
+    r = r * 2
+while l < r:
+    mid = (l + r) // 2
+    if mid**m <= n:
+        l = mid + 1
+    else:
+        r = mid
+print(l - 1)

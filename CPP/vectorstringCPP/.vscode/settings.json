@@ -49,10 +49,6 @@
         "list": "cpp",
         "stack": "cpp",
         "string": "cpp",
-        "deque": "cpp",
-        "xtree": "cpp",
-        "map": "cpp",
-        "queue": "cpp",
-        "fstream": "cpp"
+        "deque": "cpp"
     }
 }

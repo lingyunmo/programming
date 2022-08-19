@@ -1,0 +1,4 @@
+North shore;495;483
+Auckland;872;791
+Palmerston North;361;361
+Hamilton;476;502
